@@ -5,8 +5,6 @@ const reducers = combineReducers({
     numeros: numerosReducer
 })
 
-function storeConfig() {
-    return createStore(reducers);
-}
+const store = createStore(reducers);
 
-export default storeConfig;
+export { store };
