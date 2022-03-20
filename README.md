@@ -1,1 +1,1 @@
-# Testing some features of React App Redux
+# Concept model of Redux/React for the dev Team.
